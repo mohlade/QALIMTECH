@@ -124,7 +124,7 @@ const ContactUs = () => {
                                 <span className="text-gray-300 font-lato text-lg">Phone: +123 456 7890</span>
                             </div>
                             <div className="flex items-center gap-3">
-                                <span className="text-gray-300 font-lato text-lg">Address: 123 Farm Road, Anytown, USA</span>
+                                <span className="text-gray-300 font-lato text-lg">Ayetodo Farms Nigeria </span>
                             </div>
                         </div>
                     </div>
